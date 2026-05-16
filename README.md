@@ -4,6 +4,8 @@
 
 This repository contains the manuscript, experimental code, and figures for the second TruthSpace paper — a geometric reinterpretation of the OLMo2 transformer architecture through the lens of **φ-computation**. The central claim: a standard transformer is not merely *analogous* to a φ-computer — it IS one, up to architectural constraints. Training discovers the geometry; it does not create it.
 
+[**Read the full paper (PDF)**](output/paper.pdf)
+
 ## Abstract
 
 This volume presents a geometric interpretation of the OLMo2 transformer through the lens of φ-computation — a framework in which all neural operations are expressed as exact φ-geometric primitives rather than floating-point approximations. The work is organized as a series of constructive experiments (T1–T6) that progressively build and validate this interpretation.
